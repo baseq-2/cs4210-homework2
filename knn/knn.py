@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Gabriel Fok
 # FILENAME: knn.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: load in data from training data, then perform 1NN LOO-CV and print error rate
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
