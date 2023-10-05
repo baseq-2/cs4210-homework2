@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Gabriel Fok
 # FILENAME: naive_bayes.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: load in data from training csv file, then test the model and only display high confidence results
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
